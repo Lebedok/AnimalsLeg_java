@@ -10,7 +10,7 @@ public class AnimalsLegs {
         int chickenLegs = 2;
         int totalLegs;
 
-        cowsLegs = cows * cowsLegs; // 23*4 =
+        cowsLegs = cows * cowsLegs;
         chickenLegs = chickens * chickenLegs;
         totalLegs = cowsLegs + chickenLegs;
 
